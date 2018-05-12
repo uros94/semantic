@@ -5,7 +5,7 @@ import json
 import datetime
 import numpy as np
 import time
-from .commentSemanticsConstants import synapse0, synapse1, wordsList, classesList
+from commentSemanticsConstants import synapse0, synapse1, wordsList, classesList
 
 stemmer = LancasterStemmer()
 # probability threshold

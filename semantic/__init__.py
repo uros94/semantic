@@ -1,2 +1,2 @@
-from commentSemantics import commentSemantics
-from commentSemanticsConstants import commentSemanticsConstants
+import commentSemantics
+import commentSemanticsConstants
